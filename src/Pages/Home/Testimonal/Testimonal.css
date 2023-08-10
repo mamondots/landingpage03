@@ -1,0 +1,22 @@
+.slick-arrow::before{
+    display:none;
+}
+
+.slick-dots{
+    position: absolute;
+    bottom:40px;
+}
+
+.slick-dots li button:hover::before{
+    width:20px;
+    height:20px;
+    border:1px solid #525FE1;
+    border-radius:50%;
+}
+.slick-dots li button::before{
+    color:#525FE1 !important;
+    font-size:10px !important;
+    text-align:center !important;
+    top:1px;
+    
+}

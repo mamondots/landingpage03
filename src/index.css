@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.common-btn{
+    @apply flex items-center font-semibold lg:text-lg text-base px-6 py-4 rounded-lg bg-[#525FE1] text-white hover:bg-[#231F40] duration-300
+}

@@ -1,0 +1,12 @@
+.full-box{
+    position: relative;
+}
+.full-box .short-box{
+    transform:translateX(20px);
+    opacity:0;
+    transition:0.5s;
+}
+.full-box:hover .short-box{
+    transform:translateX(0px);
+    opacity:1;
+}

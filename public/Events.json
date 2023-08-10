@@ -1,0 +1,25 @@
+[
+    {
+        "image": "https://i.ibb.co/t8H50jz/event-01.jpg",
+        "title": "Innovation & Technological Entrepreneurship Team",
+        "date": "28th Dec 2023",
+        "address": "Alpaca Way Anaheim, CA 92805",
+        "time": "08:00 AM"
+      },
+
+      {
+        "image": "https://i.ibb.co/NNkVjhs/event-03.jpg",
+        "title": "Virtual Spring Part-time Jobs Fair for Student",
+        "date": "30th Oct 2023",
+        "address": "Ritter Avenue Detroit, MI 48226",
+        "time": "10:00 AM"
+      },
+
+      {
+        "image": "https://i.ibb.co/8drNMV7/event-02.jpg",
+        "title": "Explorations of Regional Chief Executive Network",
+        "date": "18th Sep 2023",
+        "address": "Stout Street York, PA 17401",
+        "time": "05:00 PM"
+      }
+]

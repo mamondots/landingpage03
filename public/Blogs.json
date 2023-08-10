@@ -1,0 +1,17 @@
+[
+    {
+      "image": "https://i.ibb.co/0GP2BHM/post-01.jpg",
+      "title": "Introduction to Javascript for the Beginners",
+      "name": "John Kite",
+      "date": "10 Nov, 2023",
+      "category": "Business"
+    },
+    
+    {
+      "image": "https://i.ibb.co/Nx76c59/post-02.jpg",
+      "title": "Identity Design for a New Courses Crusader Work",
+      "name": "Hazel Thomas",
+      "date": "06 Nov, 2023",
+      "category": "Education"
+    }
+  ]

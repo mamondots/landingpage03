@@ -1,0 +1,20 @@
+[
+    {
+      "name": "John Smith",
+      "position": "Software Engineer",
+      "image": "https://i.ibb.co/mSLKmWY/client-01.png",
+      "details": "John Smith is an experienced software engineer with expertise in web development and backend systems. He has worked on various projects and contributed to the development of multiple successful applications."
+    },
+    {
+      "name": "Jane Doe",
+      "position": "UI/UX Designer",
+      "image": "https://i.ibb.co/B6cybQs/client-02.png",
+      "details": "Jane Doe is a talented UI/UX designer who excels in creating intuitive and visually appealing user interfaces. She has a keen eye for detail and is passionate about delivering delightful user experiences."
+    },
+    {
+      "name": "David Johnson",
+      "position": "Marketing Manager",
+      "image": "https://i.ibb.co/51hJkVh/client-03.png",
+      "details": "David Johnson is an accomplished marketing manager with a proven track record of driving successful marketing campaigns. He possesses excellent communication skills and is adept at identifying and targeting key consumer segments."
+    }
+  ]

@@ -1,0 +1,78 @@
+[
+    {
+      "name": "John Smith",
+      "position": "Software Engineer",
+      "email": "johnsmith@example.com",
+      "phone": "+1-555-1234567",
+      "skills": [
+        "Java",
+        "Python",
+        "JavaScript",
+        "SQL",
+        "HTML/CSS"
+      ],
+      "course_author": "CodeMaster University",
+      "total_rating": 126,
+      "avg_rating": 4.8,
+      "details": "John Smith is a skilled software engineer with expertise in Java, Python, JavaScript, SQL, and HTML/CSS. He has developed numerous applications and possesses a deep understanding of software development principles and best practices. In addition to his work as a software engineer, John also serves as a course author for CodeMaster University, where he shares his knowledge and experience with aspiring developers. With a total rating of 126 and an average rating of 4.8, John is highly regarded for his teaching abilities and technical expertise.",
+      "image": "https://i.ibb.co/TMGxQkN/instructor-1.jpg",
+      "timestamp": "2023-07-12T12:34:56Z"
+    },
+    {
+      "name": "Jane Doe",
+      "position": "UI/UX Designer",
+      "email": "janedoe@example.com",
+      "phone": "+1-555-9876543",
+      "skills": [
+        "UI Design",
+        "User Research",
+        "Prototyping",
+        "Wireframing",
+        "Adobe XD"
+      ],
+      "course_author": "Design Masterclass",
+      "total_rating": 92,
+      "avg_rating": 4.6,
+      "details": "Jane Doe is a talented UI/UX designer with expertise in UI design, user research, prototyping, wireframing, and Adobe XD. She has a passion for creating intuitive and visually appealing user interfaces. Jane is known for her attention to detail and her ability to understand user needs. As a course author for Design Masterclass, she shares her knowledge and teaches aspiring designers. With a total rating of 92 and an average rating of 4.6, Jane is highly respected for her design skills and teaching abilities.",
+      "image": "https://i.ibb.co/8sQTNFX/instructor-2-1.jpg",
+      "timestamp": "2023-07-12T13:45:22Z"
+    },
+    {
+      "name": "David Johnson",
+      "position": "Marketing Manager",
+      "email": "davidjohnson@example.com",
+      "phone": "+1-555-2468135",
+      "skills": [
+        "Digital Marketing",
+        "Social Media Marketing",
+        "Brand Management",
+        "Market Research",
+        "Google Analytics"
+      ],
+      "course_author": "Marketing Academy",
+      "total_rating": 78,
+      "avg_rating": 4.2,
+      "details": "David Johnson is an accomplished marketing manager with expertise in digital marketing, social media marketing, brand management, market research, and Google Analytics. He has successfully executed multiple marketing campaigns and has a deep understanding of consumer behavior. David shares his knowledge as a course author at Marketing Academy, helping marketers enhance their skills. With a total rating of 78 and an average rating of 4.2, David is highly regarded for his marketing expertise and teaching capabilities.",
+      "image": "https://i.ibb.co/zmgybWb/instructor-8.jpg",
+      "timestamp": "2023-07-12T14:57:10Z"
+    },
+    {
+      "name": "Emily Wilson",
+      "position": "Data Scientist",
+      "email": "emilywilson@example.com",
+      "phone": "+1-555-5678910",
+      "skills": [
+        "Python",
+        "R",
+        "Machine Learning",
+        "Data Visualization",
+        "Statistical Analysis"
+      ],
+      "course_author": "Data Science Academy",
+      "total_rating": 112,
+      "avg_rating": 4.9,
+      "details": "Emily Wilson is a data scientist with expertise in Python, R, machine learning, data visualization, and statistical analysis. She has worked on a wide range of projects, leveraging data to derive meaningful insights and drive decision-making. Emily is a course author at Data Science Academy, where she helps aspiring data scientists develop their skills. With a total rating of 112 and an average rating of 4.9, Emily is highly respected for her knowledge in data science and her teaching abilities.",
+      "image": "https://i.ibb.co/6m3jWSk/instructor-6-1.jpg",
+      "timestamp": "2023-07-12T16:22:48Z"
+    }
+  ]

@@ -1,0 +1,15 @@
+.nav li{
+        padding:0 16px;
+}
+.nav li a{
+    text-decoration:none;
+    font-size:18px;
+    font-weight:500;
+    color:#262626;
+    cursor: pointer;
+    transition:0.5s;
+}
+.nav li a:hover{
+    color: #525FE1;
+    
+}

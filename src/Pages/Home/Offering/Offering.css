@@ -1,0 +1,16 @@
+.lineText{
+    position: relative;
+    color:#424242d5;
+    position: relative;
+    padding:0 10px;
+}
+.lineText::before{
+    position: absolute;
+    content:"";
+    top:0;
+    left:0;
+    width:2px;
+    height:100%;
+    background-color: #525FE1;
+    
+}
